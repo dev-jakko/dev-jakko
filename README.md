@@ -7,7 +7,8 @@ I am currently a high school student in Poland.
 **🐍 Programming Languages:**  
 - **C#** ( <1y )  
 - **PHP** ( <1y )  
-- **JavaScript** ( <1y )  
+- **JavaScript** ( <1y )
+- **Batch** ( <1y )
 
 **🌐 Web Development:**  
 - **HTML & CSS** ( 1–2y )  
@@ -16,10 +17,10 @@ I am currently a high school student in Poland.
 - **Unity (C#)** ( <1y )  
 
 **🎓 Learning:**  
-- **F#**  
+- **F#**
 
 ### 🌐 Get in Touch  
 📧 Email: [jakub.pk.koba@gmail.com](mailto:jakub.pk.koba@gmail.com)  
 
 ### 📂 My Projects  
-🛠️ W.I.P. 🛠️  
+- [CMD Tools](https://github.com/dev-jakko/CMD-Tools): a custom-made, user-friendly command-line tool written in batch
